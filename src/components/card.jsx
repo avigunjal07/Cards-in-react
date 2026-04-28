@@ -1,11 +1,11 @@
 function Card({ id, imageUrl, title, description }) {
   const cardStyle = {
     width: "250px",
-    // borderRadius: "15px",
-    // boxShadow: "0 4px 10px rgba(0,0,0,0.2)",
-    // padding: "15px",
-    // textAlign: "center",
-    // backgroundColor: "#E6EEC9"
+    borderRadius: "15px",
+    boxShadow: "0 4px 10px rgba(0,0,0,0.2)",
+    padding: "15px",
+    textAlign: "center",
+    backgroundColor: "#E6EEC9"
   }
 
   const imgStyle = {
