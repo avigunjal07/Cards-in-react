@@ -11,10 +11,10 @@ function Card({ id, imageUrl, title, description }) {
   const imgStyle = {
     borderRadius: "50%",
     height: "180px",
-    // width: "180px",
-    // objectFit: "cover",
-    // marginBottom: "10px",
-    // border: "3px solid rgba(125, 167, 140, 0.5)"
+    width: "180px",
+    objectFit: "cover",
+    marginBottom: "10px",
+    border: "3px solid rgba(125, 167, 140, 0.5)"
   }
 
   return (
